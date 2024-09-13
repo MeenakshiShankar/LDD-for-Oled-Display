@@ -1,3 +1,6 @@
+# LDD-for-Oled-Display
+
+This repository contains the code files for an Linux device Driver written for SSD1306 OLED display.
 
 # Linux Device Driver for OLED Display
 
