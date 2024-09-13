@@ -62,7 +62,7 @@ The driver includes pre-defined logos that can be displayed on the OLED:
 - **india_logo**: Displays the India logo.
 - **smile_logo**: Displays a smiley logo.
 ## Result ans Setup
-![Alt text](LDD-setup.png)
+![Alt text](LDD setup.jpeg)
 
 
 
