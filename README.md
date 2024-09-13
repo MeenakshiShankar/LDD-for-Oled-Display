@@ -64,6 +64,7 @@ The driver includes pre-defined logos that can be displayed on the OLED:
 ## Result ans Setup
  <a>
     <img src="LDD setup.jpeg" alt="Logo" width="300" height="400">
+    <img src="iisc logo.jpeg" alt="Logo" width="300" height="400">
   </a>
 
 
