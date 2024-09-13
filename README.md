@@ -1,6 +1,4 @@
-Here is a basic `README.md` file for your Linux device driver project for an OLED display:
 
-```markdown
 # Linux Device Driver for OLED Display
 
 This project implements a Linux kernel device driver for controlling an OLED display using the SSD1306 controller via I2C.
