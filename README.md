@@ -63,7 +63,7 @@ The driver includes pre-defined logos that can be displayed on the OLED:
 - **smile_logo**: Displays a smiley logo.
 ## Result ans Setup
  <a>
-    <img src="LDD setup.jpeg" alt="Logo" width="900" height="500">
+    <img src="LDD setup.jpeg" alt="Logo" width="300" height="400">
   </a>
 
 
